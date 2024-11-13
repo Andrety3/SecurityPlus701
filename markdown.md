@@ -46,11 +46,24 @@ Refers to a period during which a system, service, or piece of equipment is unav
 Service restarts are typically used for background processes without significantly impacting user activities.
 
 ### - Application restart
+Application restart is a feature that allows an application to be restarted automatically or given to the user the option to restart it
 
 ### - Legacy applications
+A legacy application is an outdated computer program or system that is still in use, but is no longer supported by its developers
 
 ### - Dependencies
+Dependencies are the relationships between IT services and can refer to a number of different things, including:
+IT operations and planning
+Understanding IT dependencies can help identify critical services, limit risks, and see the consequences of application failure. 
+ 
+Information used in controls
+IT Dependency (ITD) is a term used by auditors to describe information used to execute controls. ITD testing ensures that information used in control operations is reliable, complete, and accurate. 
 
+Software dependencies
+A software dependency is a library or piece of software that a software system relies on to function. Developers use software dependencies to save time and effort, but issues or bugs in the dependency can affect the entire system. 
+ 
+Business dependency
+IT dependency can also refer to a business's requirement for IT support to execute
 
 
 
