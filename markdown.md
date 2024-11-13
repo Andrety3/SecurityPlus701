@@ -20,13 +20,13 @@ It refers to individuals or groups that are primarily responsible for implementi
 How do test results play an important role in change management?
 Before implementation, changes must first be evaluated in a test environment to ensure they work as intended and do not cause issues. Test results provide valuable insight into the likelihood of success and help identify potential issues without impacting business operations.
 
-###-Backout Plan
+### -Backout Plan
 A contingency plan for reversing changes and returning systems and software to their original state if the implementation plan fails.
 
-###-Maintenence Window
+### -Maintenence Window
 An approved time frame for implementing changes
 
-###-What are Standard Operating Procedures (SOPs)?
+### -What are Standard Operating Procedures (SOPs)?
 Detailed, written instructions that describe how to carry out routine operations or changes. 
 
 ## • Technical implications
