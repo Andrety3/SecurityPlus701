@@ -24,6 +24,7 @@ Before implementation, changes must first be evaluated in a test environment to 
 A contingency plan for reversing changes and returning systems and software to their original state if the implementation plan fails.
 
 ### -Maintenence Window
+A maintenance window is a period of time designated in advance by the technical staff, during which preventive maintenance that could cause disruption of service may be performed.
 An approved time frame for implementing changes
 
 ### -What are Standard Operating Procedures (SOPs)?
