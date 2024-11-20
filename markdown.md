@@ -66,5 +66,17 @@ A software dependency is a library or piece of software that a software system r
 Business dependency
 IT dependency can also refer to a business's requirement for IT support to execute
 
+# Documentation
+IT documentation encompasses all written materials and instructions central to system operations, procedures, configurations, and setups in an Information Technology (IT) environment
+
+Comprehensive IT documentation should include information about your hardware devices, software applications, network configurations, user accounts and permissions, and security policies
+
+## -Updating Diagrams
+the process of updating existing network or system diagrams to reflect recent changes in infrastructure, such as new hardware, software versions, network topology modifications, or security configurations, ensuring the diagram remains accurate and relevant for troubleshooting and planning purposes
+###* Updating Policies/Procedures
+* Updating IT policies involves regularly reviewing and revising your organization's Information Technology guidelines to ensure they remain aligned with current technology, security standards, and compliance requirements, typically including a thorough assessment of existing policies, identifying gaps, incorporating feedback from stakeholders, and clearly communicating changes to employees to maintain a secure and efficient IT environment
+  
+
+
 
 
