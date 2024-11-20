@@ -71,10 +71,10 @@ IT documentation encompasses all written materials and instructions central to s
 
 Comprehensive IT documentation should include information about your hardware devices, software applications, network configurations, user accounts and permissions, and security policies
 
-### -Updating Diagrams
+### - Updating Diagrams
 the process of updating existing network or system diagrams to reflect recent changes in infrastructure, such as new hardware, software versions, network topology modifications, or security configurations, ensuring the diagram remains accurate and relevant for troubleshooting and planning purposes
-###* Updating Policies/Procedures
-- Updating IT policies involves regularly reviewing and revising your organization's Information Technology guidelines to ensure they remain aligned with current technology, security standards, and compliance requirements, typically including a thorough assessment of existing policies, identifying gaps, incorporating feedback from stakeholders, and clearly communicating changes to employees to maintain a secure and efficient IT environment
+### - Updating Policies/Procedures
+Updating IT policies involves regularly reviewing and revising your organization's Information Technology guidelines to ensure they remain aligned with current technology, security standards, and compliance requirements, typically including a thorough assessment of existing policies, identifying gaps, incorporating feedback from stakeholders, and clearly communicating changes to employees to maintain a secure and efficient IT environment
   
 
 
